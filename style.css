@@ -29,6 +29,7 @@ header{
 
 img{
   border: 1px solid #ffd700;
+  overflow: auto;
 }
 
 ul.nav1{

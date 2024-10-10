@@ -1,7 +1,9 @@
 html, body {
   height: 80%;
   width: 80%;
+  overflow: auto;
 }
+
 body{
   background-color: #000000;
   margin-top: 100px;
@@ -9,6 +11,16 @@ body{
   margin-left: 250px;
   margin-right: 100px;
   color: #ffd700;
+}
+
+title {
+  background-color: grey;
+  color: gold;
+}
+
+section-title {
+  background-color: purple;
+  color: gold;
 }
 
 header{
@@ -24,7 +36,7 @@ ul.nav1{
   list-style-type: none;
   margin:0;
   padding: 0;
-  overflow: hidden;
+  overflow: auto;
   background-color: #000000;
 }
 

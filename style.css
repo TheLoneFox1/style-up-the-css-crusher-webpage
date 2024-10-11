@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-  background-color: light grey;
+  background-color: grey;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-left: 250px;
@@ -12,22 +12,22 @@ body {
   color: orange;
 }
 
-title {
+title-class {
   background-color: grey;
   color: orange;
 }
 
-section-title {
+section-title-class {
   background-color: black;
   color: gold;
 }
 
-header{
+header-class{
   background-color: dark grey;
   color: orange;
 }
 
-img{
+img-class {
   border: 1px solid #ffd700;
   overflow: auto;
 }

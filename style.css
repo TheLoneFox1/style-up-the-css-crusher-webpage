@@ -7,7 +7,7 @@ body {
   background-color: black;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 250px;
+  margin-left: 100px;
   margin-right: 100px;
   color: orange;
 }
@@ -24,7 +24,7 @@ section-title {
 
 header {
   background-color: DarkGrey;
-  color: orange;
+  color: gold;
 }
 
 img {
@@ -35,7 +35,7 @@ img {
 
 nav {
   background-color: DarkGrey;
-  color: GoldenRod;
+  color: #DAA520;
 }
 
 nav a.active {

@@ -3,7 +3,7 @@ html, body {
   width: 80%;
 }
 
-body-class {
+body {
   background-color: grey;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -12,25 +12,35 @@ body-class {
   color: orange;
 }
 
-title-class {
+title {
   background-color: grey;
   color: orange;
 }
 
-section-title-class {
+section-title {
   background-color: black;
   color: gold;
 }
 
-header-class{
+header {
   background-color: DarkGrey;
   color: orange;
 }
 
-img-class {
+img {
   border: 1px solid #ffd700;
   height: auto;
   max-width: 100%;
+}
+
+nav {
+  background-color: DarkGrey;
+  color: GoldenRod;
+}
+
+nav a.active {
+  background-color: grey;
+  color: yellow;
 }
 
 ul.nav1{

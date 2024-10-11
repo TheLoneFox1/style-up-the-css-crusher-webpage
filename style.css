@@ -18,7 +18,7 @@ title {
 }
 
 section-title {
-  background-color: black;
+  background-color: #DAA520;
   color: gold;
 }
 
@@ -34,13 +34,13 @@ img {
 }
 
 nav {
-  background-color: DarkGrey;
-  color: #DAA520;
+  background-color: #B0C4DE;
+  color: black;
 }
 
 nav a.active {
-  background-color: grey;
-  color: #DAA520;
+  background-color: #B0C4DE;
+  color: black;
 }
 
 ul.nav1{

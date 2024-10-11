@@ -94,7 +94,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #F0E68C;
 }
 
 form {
@@ -136,11 +136,11 @@ label {
 }
 
 input {
-  background-color: gold;
+  background-color: #F0E68C;
   color: black;
 }
 
 footer {
-  background-color: purple;
+  background-color: blue;
   color: gold;
 }

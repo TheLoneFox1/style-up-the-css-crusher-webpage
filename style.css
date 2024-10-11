@@ -9,7 +9,7 @@ body {
   margin-bottom: 100px;
   margin-left: 250px;
   margin-right: 100px;
-  color: #ffd700;
+  color: orange;
 }
 
 title {
@@ -24,7 +24,7 @@ section-title {
 
 header{
   background-color: dark grey;
-  color: #ffd700;
+  color: orange;
 }
 
 img{

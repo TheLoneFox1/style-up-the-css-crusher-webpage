@@ -3,7 +3,7 @@ html, body {
   width: 80%;
 }
 
-body {
+body-class {
   background-color: grey;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -23,13 +23,14 @@ section-title-class {
 }
 
 header-class{
-  background-color: dark grey;
+  background-color: DarkGrey;
   color: orange;
 }
 
 img-class {
   border: 1px solid #ffd700;
-  overflow: auto;
+  height: auto;
+  max-width: 100%;
 }
 
 ul.nav1{
